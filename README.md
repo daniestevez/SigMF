@@ -86,6 +86,7 @@ for adx, annotation in enumerate(annotations):
 
 ```python
 import datetime as dt
+import sigmf
 from sigmf import SigMFFile
 
 # suppose we have an complex timeseries signal
